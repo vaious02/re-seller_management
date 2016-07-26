@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12774337573",
+    "firebase_url": "https://re-seller-stock-manageme-debdb.firebaseio.com",
+    "project_id": "re-seller-stock-manageme-debdb",
+    "storage_bucket": "re-seller-stock-manageme-debdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12774337573:android:0084c934b7819ed1",
+        "android_client_info": {
+          "package_name": "management.stock.reseller.stylhunt.re_seller_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12774337573-c6182uq0h0fg888kdhckpmkothckvnjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjvDEbm0MKC7lpPm1XYUj9xKKnhRuXIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
